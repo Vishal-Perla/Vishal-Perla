@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vishal!</h1>
+<h1>Hi, I'm Vishal Perla!</h1>
 <p>
   I'm a <a href="https://www.linkedin.com/in/vishal-perla-815388332/" target="_blank">Computer Science student at UC Santa Cruz</a>, 
   specializing in <strong>Software Engineering</strong>, <strong>IT</strong>, and <strong>Cybersecurity</strong>.
