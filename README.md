@@ -1,5 +1,5 @@
 # Hi, I'm Vishal! 👋  
-🎓** Computer Science Student @ UC Santa Cruz**  
+🎓 ** Computer Science Student @ UC Santa Cruz**  
 Specializing in **Software Engineering**, **IT Support**, and **Cybersecurity**  
 
 ---
