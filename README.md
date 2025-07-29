@@ -10,8 +10,7 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
 
 
 ## 👨‍💻 Software Development Projects:  
-- [🖼️ S3 Image Uploader (Full-Stack)](https://github.com/Vishal-Perla/s3-image-uploader) – React + Node app that securely uploads images to AWS S3.
-Designed to demonstrate secure file handling with temporary credentials and backend API validation. Useful for any application that needs reliable, scalable image uploads — such as e-commerce platforms, profile management systems, or internal dashboards.
+- [🖼️ S3 Image Uploader (Full-Stack)](https://github.com/Vishal-Perla/s3-image-uploader) – A secure React + Node.js app for uploading images to AWS S3 using temporary credentials, ideal for scalable apps like e-commerce sites or profile systems.
 
 ## 🛡️ Cybersecurity / IT Projects:
 
