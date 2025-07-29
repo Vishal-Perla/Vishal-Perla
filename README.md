@@ -12,8 +12,15 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
 ## 👨‍💻 Software Development Projects:  
 - [🖼️ S3 Image Uploader (Full-Stack)](https://github.com/Vishal-Perla/s3-image-uploader) – React + Node app that securely uploads images to AWS S3.
 
-## 🛡️ Cybersecurity Projects:
-- [🧠 Phishing Awareness Quiz](https://github.com/Vishal-Perla/phishing-awareness-quiz) – A phishing training quiz to help people and companies protect themselves from scams. Includes real examples, visuals, and instant feedback
-  - 🌐 [Try it live](https://vishal-perla.github.io/phishing-awareness-quiz/)
+## 🛡️ Cybersecurity / IT Projects:
+
+- [🧠 Phishing Awareness Quiz](https://github.com/Vishal-Perla/phishing-awareness-quiz)  
+  A self-paced training quiz designed to help people recognize phishing scams using real-world examples, images, and instant feedback.  
+  - 🌐 [Try it live](https://vishal-perla.github.io/phishing-awareness-quiz/)  
+  - 📈 Deployed and shared with over **300+ students, faculty, and staff** to promote phishing awareness and digital safety.
+
+- [📬 Campus Phishing Warning Template](https://github.com/Vishal-Perla/phishing-awareness-email-template)  
+  HTML info sheet built for internal use during my time at the UCSC IT Support Desk. Used to educate clients on phishing scams, common red flags, and safe reporting practices.  
+  - 📢 Circulated to 250+ university affiliates to respond scam reports across campus.
 
 
