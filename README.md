@@ -14,7 +14,7 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
 
 ## 🛡️ Cybersecurity / IT Projects:
 
-- [🧠 Phishing Awareness Quiz](https://github.com/Vishal-Perla/phishing-awareness-quiz)  
+- [🧠 Phishing Awareness Education Tool - Interactive Web App](https://github.com/Vishal-Perla/phishing-awareness-quiz)  
   A self-paced training quiz designed to help people recognize phishing scams using real-world examples, images, and instant feedback.  
   - 🌐 [Try it live](https://vishal-perla.github.io/phishing-awareness-quiz/)  
   - 📈 Deployed and shared with over **300+ students, faculty, and staff** to promote phishing awareness and digital safety.
