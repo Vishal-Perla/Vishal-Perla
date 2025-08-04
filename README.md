@@ -12,8 +12,9 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
 ## 👨‍💻 Software Development Projects:  
 - [🖼️ S3 Image Uploader (Full-Stack)](https://github.com/Vishal-Perla/s3-image-uploader) – A secure React + Node.js app for uploading images to AWS S3 using temporary credentials, ideal for scalable apps like e-commerce sites or profile systems.
 
-- [🤖 AI-Powered Code Reviewer](https://github.com/Vishal-Perla/ai-code-reviewer) – Try it live: [main.d3why3s3rwilu.amplifyapp.com](https://main.d3why3s3rwilu.amplifyapp.com)  
-  Automatically reviews JavaScript snippets for style, security, and performance using an LLM, then saves and displays results in a React dashboard. **Impact:** Cuts manual code‐review turnaround and provides instant feedback to developers.  
+- [🤖 AI-Powered Code Reviewer](https://github.com/Vishal-Perla/ai-code-reviewer) - Automatically reviews JavaScript snippets for style, security, and performance using an LLM, then saves and displays results in a React dashboard. **Impact:** Cuts manual code‐review turnaround and provides instant feedback to developers.  
+- 🌐 [Try it live](https://main.d3why3s3rwilu.amplifyapp.com)  
+
 
 ## 🛡️ Cybersecurity / IT Projects:
 
