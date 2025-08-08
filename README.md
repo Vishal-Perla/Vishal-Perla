@@ -23,7 +23,7 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
   A self-paced training quiz designed to help people recognize phishing scams using real-world examples, images, and instant feedback.  
   - 📈 Deployed and shared with over **300+ students, faculty, and staff** to promote phishing awareness and digital safety.
 
-- [📬 Campus Phishing Warning Template](https://github.com/Vishal-Perla/phishing-awareness-email-template)  
+- [📬 Campus Phishing Warning Template](https://github.com/Vishal-Perla/phishing-awareness-guide-html)  
   HTML info sheet built for internal use during my time at the UCSC IT Support Desk. Used to educate clients on phishing scams, common red flags, and safe reporting practices.  
   - 📢 Circulated to 250+ university affiliates to respond scam reports across campus.
 
