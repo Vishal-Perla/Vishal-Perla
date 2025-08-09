@@ -16,7 +16,7 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
   **Impact:** Cuts manual code-review turnaround and provides instant feedback to developers.  
   **Used by:** Sloth Lab, Tech4Good UCSC, and shared via family and friends to teams at LinkedIn, Oracle, and Adobe.
 
-  -[🤝 Conversational AI Job Assistant(Full-Stack)](https://github.com/Vishal-Perla/ai-job-assistant) – FastAPI + React app that parses job intent (role, location, salary, domain, experience) with GPT-4o, ranks matches from a mock Jobnova API, generates tailored interview     questions, and offers one-click cover letters.
+  -[🤝 Conversational AI Job Assistant](https://github.com/Vishal-Perla/ai-job-assistant) – FastAPI + React app that parses job intent (role, location, salary, domain, experience) with GPT-4o, ranks matches from a mock Jobnova API, generates tailored interview     questions, and offers one-click cover letters.
 
 
 ## 🛡️ Cybersecurity / IT Projects:
