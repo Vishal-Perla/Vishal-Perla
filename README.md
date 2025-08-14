@@ -13,8 +13,6 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
 - [🖼️ S3 Image Uploader (Full-Stack)](https://github.com/Vishal-Perla/s3-image-uploader) – A secure React + Node.js app for uploading images to AWS S3 using temporary credentials, ideal for scalable apps like e-commerce sites or profile systems.
 
 - [🤖 AI-Powered Code Reviewer](https://github.com/Vishal-Perla/ai-code-reviewer) – Automatically reviews JavaScript snippets for style, security, and performance using an LLM, then saves and displays results in a React dashboard.  
-  **Impact:** Cuts manual code-review turnaround and provides instant feedback to developers.  
-  **Used by:** Sloth Lab, Tech4Good UCSC, and shared via family and friends to teams at LinkedIn, Oracle, and Adobe.
 
   -[🤝 Conversational AI Job Assistant](https://github.com/Vishal-Perla/ai-job-assistant) – FastAPI + React app that parses job intent (role, location, salary, domain, experience) with GPT-4o, ranks matches from a mock Jobnova API, generates tailored interview     questions, and offers one-click cover letters.
 
