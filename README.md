@@ -18,6 +18,9 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
 
   -[🤝 Conversational AI Job Assistant](https://github.com/Vishal-Perla/ai-job-assistant) – FastAPI + React app that parses job intent (role, location, salary, domain, experience) with GPT-4o, ranks matches from a mock Jobnova API, generates tailored interview     questions, and offers one-click cover letters.
 
+- [🧱 Supabase Multi-Tenant Issue Tracker (Auth/DB)](https://github.com/Vishal-Perla/supabase-issue-tracker) – Org/project/issue/comments model with Supabase Auth, RLS policies, migrations, indexes, and seed data.
+Impact: Demonstrates a secure, scalable multi-tenant backend foundation (roles: owner/admin/member).
+
 
 ## 🛡️ Cybersecurity / IT Projects:
 
