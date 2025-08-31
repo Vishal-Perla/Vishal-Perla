@@ -22,7 +22,7 @@ Impact: Demonstrates a secure, scalable multi-tenant backend foundation (roles: 
 
 ## 🛡️ Cybersecurity / IT Projects:
 
-- [🔐 AI Incident Response Copilot](https://github.com/Vishal-Perla/ai-incident-copilot)  
+- [🔐 AI Incident Response Copilot](https://github.com/Vishal-Perla/RAG-incident-copilot)  
   Full-stack RAG-powered assistant that analyzes security alerts/logs and generates **step-by-step incident response actions** with sources from MITRE/NIST.  
   - 📊 Includes a metrics dashboard to track requests, latency, and success rates.
 
