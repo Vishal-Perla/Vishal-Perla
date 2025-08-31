@@ -22,6 +22,10 @@ Impact: Demonstrates a secure, scalable multi-tenant backend foundation (roles: 
 
 ## 🛡️ Cybersecurity / IT Projects:
 
+- [🔐 AI Incident Response Copilot](https://github.com/Vishal-Perla/ai-incident-copilot)  
+  Full-stack RAG-powered assistant that analyzes security alerts/logs and generates **step-by-step incident response actions** with sources from MITRE/NIST.  
+  - 📊 Includes a metrics dashboard to track requests, latency, and success rates.
+
 - [🧠 Phishing Awareness Education Tool - Interactive Web App](https://github.com/Vishal-Perla/phishing-awareness-quiz)  
   A self-paced training quiz designed to help people recognize phishing scams using real-world examples, images, and instant feedback.  
   - 📈 Deployed and shared with over **300+ students, faculty, and staff** to promote phishing awareness and digital safety.
