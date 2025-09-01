@@ -6,7 +6,8 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
 
 ### 📫 Connect with me:
 - 📧 Email: vishal260805@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vishal-perla-815388332/)
+-  <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/0aea905a-37ea-41ac-ad3f-0698ea2024f5" />
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/vishal-perla-815388332/)
 
 
 ## 👨‍💻 Software Development Projects:  
