@@ -6,13 +6,24 @@ Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**
 
 ## 📊 GitHub Dashboard  
 
+<!-- Typing Animation -->
 <p align="center">
-  <!-- Profile Stats -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Full-Stack+Developer;Cybersecurity+Learner;AI+%2B+Cloud+Projects;Always+Learning+%26+Building" />
+</p>
+
+<!-- Core Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Perla&show_icons=true&theme=dark" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Perla&theme=dark" height="180em" />
 </p>
 
+<!-- Random Quotes -->
 <p align="center">
-  <!-- Profile Views Counter -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishal-Perla&color=blue&style=flat-square" alt="profile views" />
 </p>
 
