@@ -32,10 +32,6 @@ Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal-Perla&theme=github_dark" />
 </p>
 
-<p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Vishal-Perla&color=blue&style=flat-square" alt="profile views" />
-</p>
 
 
 ---
