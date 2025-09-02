@@ -8,7 +8,6 @@ Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**
 
 <p align="center">
   <!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Perla&show_icons=true&theme=dark" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Perla&theme=dark" height="180em" />
 </p>
 
