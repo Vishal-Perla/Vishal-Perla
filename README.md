@@ -1,6 +1,6 @@
 # Hi, I'm Vishal! 👋  
-🎓 **3rd year Computer Science B.S. @ UC Santa Cruz** 
-Specializing in **Software Engineering**, **IT**, and **Cybersecurity**   
+🎓 **Computer Science B.S. @ UC Santa Cruz**  
+Focused on **Full-Stack Dev**, **IT Engineering**, & **Cybersecurity**  
 
 ---
 
