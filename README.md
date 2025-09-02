@@ -8,13 +8,17 @@ Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,aws,supabase,fastapi,git" />
 </p>
+  
+### 📊 GitHub Stats  
 
-###  GitHub Stats  
 <p align="center">
-  <!-- Dynamic stats cards (replace USERNAME) -->
-  ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-Perla&show_icons=true&theme=dark)
-  ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Perla&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Perla&show_icons=true&theme=dark" alt="Vishal's GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Perla&theme=dark" alt="Vishal's GitHub streak" />
+</p>
+
 
 ---
 
