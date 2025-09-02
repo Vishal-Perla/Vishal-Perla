@@ -1,6 +1,26 @@
 # Hi, I'm Vishal! 👋  
-🎓 **Computer Science B.S @ UC Santa Cruz** 🎓
-Specializing in **Software Engineering**, **IT**, and **Cybersecurity**   
+🎓 **3rd year Computer Science B.S. @ UC Santa Cruz**  
+Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**  
+
+---
+
+###  Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,aws,supabase,fastapi,git" />
+</p>
+
+###  GitHub Stats  
+<p align="center">
+  <!-- Dynamic stats cards (replace USERNAME) -->
+  ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-Perla&show_icons=true&theme=dark)
+  ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Perla&theme=dark)
+</p>
+
+---
+
+###  Connect with me:
+- 📧 Email: vishal260805@gmail.com  
+- <img width="24" height="24" alt="LinkedIn" src="https://github.com/user-attachments/assets/0aea905a-37ea-41ac-ad3f-0698ea2024f5" /> [linkedin.com/in/vishal-perla](https://www.linkedin.com/in/vishal-perla)
 
 ---
 
@@ -8,6 +28,7 @@ Specializing in **Software Engineering**, **IT**, and **Cybersecurity**
 - 📧 Email: vishal260805@gmail.com
 - <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/0aea905a-37ea-41ac-ad3f-0698ea2024f5" /> LinkedIn: [linkedin.com/in/vishal-perla](https://www.linkedin.com/in/vishal-perla)
 
+---
 
 ## 👨‍💻 Software Development Projects:  
 - [🖼️ S3 Image Uploader (Full-Stack)](https://github.com/Vishal-Perla/s3-image-uploader) – A full-stack project that demonstrates secure file uploads to AWS S3 with a React frontend and Node.js/Express backend, extended with a Supabase + FastAPI service to manage dynamic pricing, products, and subscriptions.
@@ -33,5 +54,4 @@ Impact: Demonstrates a secure, scalable multi-tenant backend foundation (roles: 
 - [📬 Campus Phishing Warning Template](https://github.com/Vishal-Perla/phishing-awareness-guide-html)  
   HTML info sheet built for internal use during my time at the UCSC IT Support Desk. Used to educate clients on phishing scams, common red flags, and safe reporting practices.  
   - 📢 Circulated to 250+ university affiliates to respond scam reports across campus.
-
 
