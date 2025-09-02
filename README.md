@@ -35,12 +35,6 @@ Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**
 
 ---
 
-### 📫 Connect with me:
-- 📧 Email: vishal260805@gmail.com
-- <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/0aea905a-37ea-41ac-ad3f-0698ea2024f5" /> LinkedIn: [linkedin.com/in/vishal-perla](https://www.linkedin.com/in/vishal-perla)
-
----
-
 ## 👨‍💻 Software Development Projects:  
 - [🖼️ S3 Image Uploader (Full-Stack)](https://github.com/Vishal-Perla/s3-image-uploader) – A full-stack project that demonstrates secure file uploads to AWS S3 with a React frontend and Node.js/Express backend, extended with a Supabase + FastAPI service to manage dynamic pricing, products, and subscriptions.
 
