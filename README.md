@@ -12,17 +12,9 @@ Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-Perla&theme=react-dark" />
-</p>
-
-<p align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Vishal-Perla&color=blue&style=flat-square" alt="profile views" />
 </p>
-
-
-
 
 ---
 
