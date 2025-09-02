@@ -1,5 +1,5 @@
 # Hi, I'm Vishal! 👋  
-🎓 **Computer Science B.S. @ UC Santa Cruz**  
+🎓 **Computer Science B.S. @ UC Santa Cruz** 🎓 
 Focused on **Full-Stack Dev**, **IT Engineering**, & **Cybersecurity**  
 
 ---
