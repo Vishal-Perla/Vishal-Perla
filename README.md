@@ -4,19 +4,37 @@ Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**
 
 ---
 
-###  Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,aws,supabase,fastapi,git" />
-</p>
-  
-### 📊 GitHub Stats  
+## 📊 GitHub Dashboard  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Perla&show_icons=true&theme=dark" alt="Vishal's GitHub stats" />
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Perla&show_icons=true&theme=dark" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Perla&theme=dark" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Perla&theme=dark" alt="Vishal's GitHub streak" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Perla&layout=compact&theme=dark" height="180em" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-Perla&theme=react-dark" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Perla&theme=onedark&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal-Perla&theme=github_dark" />
+</p>
+
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Vishal-Perla&color=blue&style=flat-square" alt="profile views" />
 </p>
 
 
