@@ -9,7 +9,7 @@ Focused on **Full-Stack Dev**, **IT Engineering**, & **Cybersecurity**
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Full-Stack+Developer;Cybersecurity+Learner;AI+%2B+Cloud+Projects;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Full-Stack+Developer;Cybersecurity+Engineer;AI+%2B+Cloud+Projects;Always+Learning+%26+Building" />
 </p>
 
 <!-- Core Stats -->
