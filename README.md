@@ -1,5 +1,5 @@
 # Hi, I'm Vishal! 👋  
-🎓 **3rd year Computer Science B.S. @ UC Santa Cruz**  
+🎓 **3rd year Computer Science B.S. @ UC Santa Cruz**  | Full stack + AI developer
 
 ---
 
