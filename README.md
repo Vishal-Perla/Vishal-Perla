@@ -1,6 +1,5 @@
 # Hi, I'm Vishal! 👋  
-🎓 **Computer Science B.S. @ UC Santa Cruz** 🎓 
-- Focused on **Full-Stack Dev**, **IT Engineering**, & **Cybersecurity**  
+🎓 **3rd year Computer Science B.S. @ UC Santa Cruz** 🎓
 
 ---
 
@@ -15,12 +14,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Perla&show_icons=true&theme=dark" height="160em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Perla&theme=dark" height="160em" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Learning-AI%20%26%20Cloud-purple?style=for-the-badge&logo=aws" />
-  <img src="https://img.shields.io/badge/Tools-FastAPI%20%7C%20Supabase%20%7C%20Node.js-yellow?style=for-the-badge" />
 </p>
 
 <!-- Profile Views Counter -->
