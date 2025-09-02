@@ -2,11 +2,12 @@
 🎓 **3rd year Computer Science B.S. @ UC Santa Cruz** 🎓
 
 Focused on **Full-Stack Dev**, **IT Engineering**, & **Cybersecurity**
-
+  
 ---
 
 ## 📊 GitHub Dashboard  
-
+<p align="center">
+  <sub>Last update: 2025-09-01 • Open to 2025-26 SWE internships</sub>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Full-Stack+Developer;Cybersecurity+Engineer;AI+%2B+Cloud+Projects;Always+Learning+%26+Building" />
@@ -27,7 +28,8 @@ Focused on **Full-Stack Dev**, **IT Engineering**, & **Cybersecurity**
 
 ###  Connect with me!
 - 📧 Email: vishal260805@gmail.com  
-- <img width="24" height="24" alt="LinkedIn" src="https://github.com/user-attachments/assets/0aea905a-37ea-41ac-ad3f-0698ea2024f5" /> [linkedin.com/in/vishal-perla](https://www.linkedin.com/in/vishal-perla)
+- <img width="24" height="24" alt="LinkedIn" src="https://github.com/user-attachments/assets/0aea905a-37ea-41ac-ad3f-0698ea2024f5" /> Linkedin: [linkedin.com/in/vishal-perla](https://www.linkedin.com/in/vishal-perla)
+-  💻 Portfolio Website: [vishal-perla.vercel.app](https://vishal-perla.vercel.app)
 
 ---
 
