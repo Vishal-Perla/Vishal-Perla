@@ -24,7 +24,7 @@ Focused on **Full-Stack + AI Dev**, **IT Engineering**, & **Cybersecurity**
 
 ---
 
-###  Connect with me:
+###  Connect with me!
 - 📧 Email: vishal260805@gmail.com  
 - <img width="24" height="24" alt="LinkedIn" src="https://github.com/user-attachments/assets/0aea905a-37ea-41ac-ad3f-0698ea2024f5" /> [linkedin.com/in/vishal-perla](https://www.linkedin.com/in/vishal-perla)
 
