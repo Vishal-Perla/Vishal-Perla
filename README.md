@@ -38,7 +38,7 @@ Focused on **Full-Stack/AI Dev**, **IT Engineering**, & **Cybersecurity**
 
 - [🎮 Dream Blast](https://dream-blast.vercel.app) – A 2D puzzle-action game built in **GDevelop + custom JavaScript**. Features a unique **timeline mechanic** (1,000+ lines of code), original art, and clone-based puzzle combat.  
   - 🏆 Awarded *Best UI/UX* at GDevelop Game Jam #7 and recognized for *Best Code Mechanics*.  
-  - 🌐 Deployed on [Vercel](https://dream-blast.vercel.app) & [Itch.io](https://your-itch-link-here) with **2,200+ visits to date**.
+  - 🌐 Deployed on [Vercel](https://dream-blast.vercel.app) with **2,200+ visits to date**.
 
 - [🤖 AI-Powered Code Reviewer](https://github.com/Vishal-Perla/ai-code-reviewer) – Automatically reviews JavaScript snippets for style, security, and performance using an LLM, then saves and displays results in a React dashboard.  
 
