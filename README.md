@@ -36,7 +36,7 @@ Focused on **Full-Stack/AI Dev**, **IT Engineering**, & **Cybersecurity**
 ## 👨‍💻 Software Development Projects:  
 - [🖼️ S3 Image Uploader (Full-Stack)](https://github.com/Vishal-Perla/s3-image-uploader) – A full-stack project that demonstrates secure file uploads to AWS S3 with a React frontend and Node.js/Express backend, extended with a Supabase + FastAPI service to manage dynamic pricing, products, and subscriptions.
 
-- [🎮 Dream Blast](https://dream-blast.vercel.app) – A 2D puzzle-action game built in **GDevelop + custom JavaScript**. Features a unique **timeline mechanic** (1,000+ lines of code), original art, and clone-based puzzle combat.  
+- [🎮 Dream Blast](https://github.comm/Vishal-Perla/dream-blast-game) – A 2D puzzle-action game built in **GDevelop + custom JavaScript**. Features a unique **timeline mechanic** (1,000+ lines of code), original art, and clone-based puzzle combat.  
   - 🏆 Awarded *Best UI/UX* at GDevelop Game Jam #7 and recognized for *Best Code Mechanics*.  
   - 🌐 Deployed on [Vercel](https://dream-blast.vercel.app) with **2,200+ visits to date**.
 
