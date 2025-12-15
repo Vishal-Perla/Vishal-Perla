@@ -7,7 +7,7 @@ Focused on **Full-Stack/AI Dev**, **IT Engineering**, & **Cybersecurity**
 
 ## 📊 GitHub Dashboard  
 <p align="center">
-  <sub>Last update: 2025-12-04 • Open to 2025-26 SWE internships</sub>
+  <sub>Last update: 2025-12-04 • Open to 2026 SWE internships</sub>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Full-Stack+AI+Developer;Cybersecurity+Engineer;AI+%2B+Cloud+Projects;Always+Learning+%26+Building" />
